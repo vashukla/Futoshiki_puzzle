@@ -33,7 +33,7 @@ In order to run the project on your own machine, please follow below steps.
                 1.1 cd {root_dir}/Futoshiki_puzzle
                 1.2 pip install -r requirements.txt  
                 1.3 cd {root_dir}/Futoshiki_puzzle/app.py
-    2. End point : http://localhost:5000/validate
+    2. End point : http://localhost:3000/validate
     3. Json Body(application/json):
         {
         "puzzle": [[6,3,2,4,5,1],[1,6,3,5,2,4],[3,5,1,6,4,2],[2,4,6,3,1,5],[5,2,4,1,3,6],[4,1,5,2,6,3]]
